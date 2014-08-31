@@ -1,5 +1,7 @@
 import random
- 
+
+# new version
+
 def getSecretNum (numDigits):
     #Returns a random number with numDigits digits
     
